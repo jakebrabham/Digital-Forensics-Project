@@ -27,5 +27,4 @@ Day 3:
 - Prepared a preliminary report using the Group Evidence Worksheet.
 
 
-Lab Environment
 I used a new Forensics lab environment located in Windows Azure Lab Services.
